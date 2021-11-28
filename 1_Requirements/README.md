@@ -35,5 +35,5 @@ A lamp is also used along with the LCD display. This system can be improved late
 -   It is a embedded device implemented on ATmega328 microcontroller.
 
 ### -   How
--    This can be implemented using embedded c dumpmed into the microcontroller.
+-    This can be implemented using embedded c dumped into the microcontroller.
 
