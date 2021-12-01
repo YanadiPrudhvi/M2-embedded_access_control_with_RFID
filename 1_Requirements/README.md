@@ -1,8 +1,11 @@
 #  Requirements
 
 ##  Features
+
 -   Connecting LCD display with ATmaga328 microcontroller.
--   Interfacing LCD using Embedded c programming.
+
+-   Interfacing LCD using Embedded c programming
+
 -   Communicating with LCD.
 
 ##  State of art research/Research
