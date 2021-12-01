@@ -5,6 +5,9 @@
 - Communicating with LCD.
 
 ## State of art research/Research
+
+[ATmega328 wiki](https://en.wikipedia.org/wiki/ATmega328)
+
 This article is about the ATMega328 and how to control it with a 16x2 character LC-Display. Everything is programmed in C with Amtel Studio. The software is loaded to the microcontroller via a programmer (AVRISP). The display is connected to PORTD with a 4-bit line.
 
 ### *How the LCD display works*
