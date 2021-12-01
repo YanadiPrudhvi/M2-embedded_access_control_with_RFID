@@ -1,8 +1,8 @@
 # Requirements
 ## Features
-- Connecting LCD display with ATmaga328 microcontroller.
-- Interfacing LCD using Embedded c programming.
-- Communicating with LCD.
+-  Connecting LCD display with ATmaga328 microcontroller.
+-  Interfacing LCD using Embedded c programming.
+-  Communicating with LCD.
 
 ## State of art research/Research
 
@@ -58,4 +58,19 @@ In addition to the microcontroller, a 16 MHz clock is needed, which contains a q
 
 ### -   How
 -    This can be implemented using embedded c dumped into the microcontroller.
+
+## Detailed requirements
+### - *High level requirements*
+|HLR_ID|Description|Status(Implemented/Future)|
+|------|-----------|--------------------------|
+|HLR_1|Connecting LCD display with ATmaga328 microcontroller|Implemented|
+|HLR_2|Interfacing LCD using Embedded c programming|Implemented|
+|HLR_3|Communicating with LCD|Implemented|
+### - *Low level requirements*
+|LLR_ID|Description|Status(Implemented/Future)|
+|------|-----------|--------------------------|
+|LLR_1_HLR_1| Have to connect the microcontroler ports to LCD|Implemented|
+|LLR_1_HLR_2|Give directions to the Microcontroller|Implemented|
+|LLR_2_HLR_2|Enable the PINs to communicate with LCD|Implemented|
+|LLR_1_HLR_3|Display of text in LCD screen using src code|Implemented|
 
