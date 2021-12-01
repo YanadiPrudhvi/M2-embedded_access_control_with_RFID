@@ -75,3 +75,5 @@ In addition to the microcontroller, a 16 MHz clock is needed, which contains a q
 |LLR_2_HLR_2|Enable the PINs to communicate with LCD|Implemented|
 |LLR_1_HLR_3|Display of text in LCD screen using src code|Implemented|
 
+# Design:
+![ATMega328_LCD_Display](https://user-images.githubusercontent.com/94187482/144220465-c306b8cf-bf92-4b53-90e0-2cb56cdc278d.png)
