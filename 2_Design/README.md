@@ -1,2 +1,2 @@
 # Design:
-![design](http://www.hdhprojects.nl/wp-content/uploads/2017/12/shematic-rfid.jpg)
+![ATMega328_LCD_Display](https://user-images.githubusercontent.com/94187482/144220465-c306b8cf-bf92-4b53-90e0-2cb56cdc278d.png)
