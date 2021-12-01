@@ -1,4 +1,10 @@
 # ATmega328 with 16*2 4-bit LCD Display 
+
+
+|Code Quality|Code grade|
+|-----------|-----|
+|![Quality](https://api.codiga.io/project/30228/score/svg)|![Grade](https://api.codiga.io/project/30228/status/svg)|
+
 ## Folder Structure
 
 | Folder            | Description                                  |
