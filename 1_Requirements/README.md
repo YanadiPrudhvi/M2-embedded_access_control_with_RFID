@@ -6,7 +6,7 @@
 -   Interfacing LCD using Embedded c programming
 -   Communicating with LCD.
 
-##  State of art research/Research
+##  State of art/Research
 
 [ATmega328 wiki](https://en.wikipedia.org/wiki/ATmega328)
 
