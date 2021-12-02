@@ -16,7 +16,7 @@ jobs:
     
     - name: configure
       working-directory: ./3_Implementation
-      run: ./configure
+      run: ./3_Implementation
       
     - name: Install dependencies
       working-directory: ./3_Implementation
