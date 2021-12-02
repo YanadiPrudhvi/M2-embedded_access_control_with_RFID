@@ -28,3 +28,5 @@
 7.  Run the embedded system in the simulator and see its working. 
 8.  Clean all executable files by the following command :
       - make clean
+ 
+-     By using above instructions we can run the project.
