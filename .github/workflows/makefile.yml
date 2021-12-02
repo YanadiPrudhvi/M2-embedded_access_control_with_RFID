@@ -15,8 +15,8 @@ jobs:
     - uses: actions/checkout@v2
     
     - name: configure
-      working-directory: ./configure
-      run: ./3_Implementation
+      working-directory: ./configure  
+      run: ./configure
       
     - name: Install dependencies
       run: make
